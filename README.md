@@ -4,7 +4,7 @@
 
 สำหรับใครที่หลงเข้ามา ผมขอแนะนำตัวก่อนเลยนะครับ ผมชื่อ Off หรือจะเรียกว่า "Offy" ก็ได้นะครับ ส่วน repo นี้คืออะไรล่ะ? repo นี้เป็นหนึ่งใน challenge จากเว็บไซต์ Frontend Mentor ซึ่งเป็นแหล่งรวมชาเลนจ์สำหรับฝึกทักษะด้านการพัฒนา frontend ที่มีชาเลนจ์ที่น่าสนใจมากมายรอให้เราเลือกกันไปทำเต็มไปหมด โดยในการทำ challenge นั้นก็ง่ายมากกกกก(หรือป่าว?) ก็คือให้เราเนี่ยเขียนให้ตัวหน้าเว็บของเราเนี่ยขึ้นมาให้ใกล้เคียงหรือเหมือนกับตัวแบบให้มากที่สุด และสำหรับโปรเจ็กต์นี้ก์คือ Social links profile หน้าตาก็ตามรูปข้างล่างนี้เลยครับ
 
-![Design preview for the Social links profile coding challenge](./design/desktop-design.jpg)
+![Design preview for the Social links profile coding challenge](https://offyok.github.io/social-links-profile-main/design/desktop-design.jpg)
 
 ส่วน [Link](https://offyok.github.io/social-links-profile-main/) นี้เป็นหน้า web ที่ผมเขียนออกมาได้นะครับ และ
 สำหรับคนที่สนใจอยากไปทำบ้างก็สามารถตามลิงค์นี้ไปตำกันได้เลยครับ [Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
